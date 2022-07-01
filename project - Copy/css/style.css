@@ -80,6 +80,11 @@ section{
     box-shadow: var(--box-shadow);
 }
 
+.header a span
+{
+    color:#ff7800 ;
+}
+
 .header .logo{
     font-size: 2.5rem;
     font-weight: bolder;
